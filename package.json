@@ -1,0 +1,26 @@
+{
+  "name": "no-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeVilches87/no-SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "mongoose": "^5.9.9"
+  },
+  "bugs": {
+    "url": "https://github.com/JaimeVilches87/no-SQL/issues"
+  },
+  "homepage": "https://github.com/JaimeVilches87/no-SQL#readme"
+}
